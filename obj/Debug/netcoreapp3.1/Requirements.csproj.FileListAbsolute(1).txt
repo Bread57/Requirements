@@ -1,0 +1,15 @@
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.exe
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.csprojAssemblyReference.cache
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.AssemblyInfoInputs.cache
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.AssemblyInfo.cs
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.deps.json
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.runtimeconfig.json
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.runtimeconfig.dev.json
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.dll
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\Requirements.pdb
+E:\Project\C#\Requirements\bin\Debug\netcoreapp3.1\AngleSharp.dll
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.csproj.CoreCompileInputs.cache
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.csproj.CopyComplete
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.dll
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.pdb
+E:\Project\C#\Requirements\obj\Debug\netcoreapp3.1\Requirements.genruntimeconfig.cache
